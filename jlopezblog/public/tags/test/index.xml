@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Jorge López Blog</title>
+    <link>https://lopez-504.github.io/tags/test/</link>
+    <description>Recent content in Test on Jorge López Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 19:58:29 -0300</lastBuildDate>
+    <atom:link href="https://lopez-504.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mypost</title>
+      <link>https://lopez-504.github.io/posts/mypost/</link>
+      <pubDate>Sat, 29 Nov 2025 19:58:29 -0300</pubDate>
+      <guid>https://lopez-504.github.io/posts/mypost/</guid>
+      <description>&lt;h1 id=&#34;first-title&#34;&gt;First title&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Some&lt;/li&gt;&#xA;&lt;li&gt;Bullets&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;subsection&#34;&gt;Subsection&lt;/h2&gt;&#xA;&lt;p&gt;more content&#xA;and inline $\Gamma_{\mu\nu}$&#xA;Also&lt;/p&gt;&#xA;&lt;p&gt;$$\Gamma_{\mu\nu}$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
