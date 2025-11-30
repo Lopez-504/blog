@@ -1,8 +1,4 @@
-[submodule "jlopezblog/mypublic"]
-	path = jlopezblog/mypublic
-	url = https://github.com/Lopez-504/lopez-504.github.io.git
-	branch = main
-[submodule "jlopezblog/fakepublic"]
-	path = jlopezblog/fakepublic
-	url = https://github.com/Lopez-504/lopez-504.github.io.git
+[submodule "jlopezblog/public"]
+	path = jlopezblog/public
+	url = git@github.com:Lopez-504/lopez-504.github.io.git
 	branch = main
